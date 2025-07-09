@@ -38,13 +38,8 @@
 ---
 
 ## 💌 Connect with Me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sanya-gupta-2466052a6/)
-- 📧 [Email](mailto:sanya_2312res851@iitp.ac.in)
-
----
-
-## 💖 Fun Fact:
-When I'm not coding, I'm either dancing at college fests 💃, designing resumes for friends 🎨, or crafting ideas for the next big project that blends AI with empathy 💭🌷
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanya-gupta-2466052a6/)
+[![Email](https://img.shields.io/badge/Email-sanya_2312res851@iitp.ac.in-fcc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sanya_2312res851@iitp.ac.in)
 
 ---
 
@@ -61,4 +56,5 @@ When I'm not coding, I'm either dancing at college fests 💃, designing resumes
 ---
 
 🎀 *“Tech with empathy is the future — and I’m building it, one line of code at a time.”* 💫
-checkout my portfolio  https://sanyagupta31.github.io/portfolio/
+
+🔗 **[Checkout my portfolio!](https://sanyagupta31.github.io/portfolio/)**  
